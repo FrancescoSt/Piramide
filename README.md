@@ -1,4 +1,4 @@
- # Piramide (Versione beta)
+ # Piramide (Versione definitiva)
 
  ## Descrizione
  crivere un programma che calcoli l'altezza massima di una piramide (in piani) dato un certo numero di mattoni.
