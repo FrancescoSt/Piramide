@@ -10,7 +10,7 @@
 
 - con 84 mattoni la piramide è alta 4 piani
  ## Codide (senza commenti)
- ```c#
+ ``` c#
   public static int Piani(int mattoni)
         {
             int piani = 0;
@@ -34,7 +34,7 @@
         }
  ```
  ## Codice Commentato 
- ```c#
+ ``` c#
  // Questo metodo calcola il numero massimo di piani che possono essere costruiti dati un certo numero di mattoni
 public static int Piani(int mattoni)
 {
@@ -65,7 +65,7 @@ public static int Rimanenti(int mattoni)
 ## Divisione In blocchi
 
 * primo blocco
-```c#
+``` c#
 public static int Piani(int mattoni)
         {
             int piani = 0;
